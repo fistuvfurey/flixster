@@ -9,7 +9,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ ] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [x] (3pts) User can view the movie poster image for each movie.
 
@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/Q9BwRCdKat.gif" width=250><br>
+<img src="http://g.recordit.co/aKHOODk5Id.gif" width=250><br>
 
 ### Notes
 It was challenging for me figuring out how to use Storyboard and Xcode. It took a while for me to figure out how to link the ViewController swift files to my Storyboard ViewController.
